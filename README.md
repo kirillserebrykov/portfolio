@@ -1,1 +1,1 @@
-https://kirillserebrykov.github.io/portfolio/#13232
+https://kirillserebrykov.github.io/portfolio/
